@@ -1,3 +1,6 @@
+
+
+
 HELLO FREİNDS!
 
 this project here is simple yet effective. welcome to the Password Manager App
@@ -74,6 +77,7 @@ This app includes a **password generator** so you don’t have to:
 * Invent one yourself
 * Reuse weak passwords
 * Stare at the keyboard in frustration
+* copied in the clipboard and ready for paste right after generating 
 
 Is it going to fix the entire industry’s password policy problem?
 
