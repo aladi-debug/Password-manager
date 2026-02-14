@@ -94,7 +94,12 @@ You own your data.
 * JSON (storage)
 * pyperclip
 
+## Setup
+To use the clipboard features, install the dependency:
 
+```bash
+pip install pyperclip
+```
 ---
 
 > [!NOTE]
