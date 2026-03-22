@@ -10,7 +10,7 @@ At some point in my life, I lost my phone.
 
 Along with it, I lost **every saved password**, every auto-login, every "don’t worry, future me will remember this" credential.
 
-oh buy, future me failed, Future me did **not** remember.
+oh boy, future me failed, Future me did **not** remember.
 
 I ended up resetting accounts, recreating passwords, verifying emails I forgot I even owned, and staring at login screens asking for:
 
